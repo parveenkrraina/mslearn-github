@@ -21,4 +21,4 @@ If you run into problems while completing the exercises, please let us know by o
 > ⚠️ **Note:**  
 > We're happy to help with anything related to the **learning exercises** in this repository.  
 > For product-related bugs or issues with tools like **GitHub, Azure DevOps, Azure**, or other Microsoft services, please contact Microsoft Support directly:  
-> 👉 [https://support.microsoft.com/](https://support.microsoft.com/) — select the relevant product and open a support request.
+- My Personal Copy!
